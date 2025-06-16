@@ -2,11 +2,13 @@ As for submission of this report,<br /><br />
 
 Dataset_Without_Abstract.txt ==>  Link of the modified dataset that will be used during this analysis. Unable to put inside Github because of the dataset size
 <br /><br />
+README.md ==> Readme.md
+<br /><br />
 Data_mining_initial_stage.ipynb ==> Python (Jupiter Notebook) script related to my initial analysis.
 <br /><br />
 Output_order_fdist.csv ==>  List of the words that are extracted from ‘title’ column with frequency.
 <br /><br />
-Output_By_Data_Mining ==> List of the words that are extracted based on the categories.
+Output_By_Data_Mining "Folder" ==> List of the words that are extracted based on the categories.
 <br /><br />
 -> Output_order_fdist_by_2020.csv ==> Words extracted based on year of 2020 <br />
 -> Output_order_fdist_by_2021.csv ==> Words extracted based on year of 2021 <br />

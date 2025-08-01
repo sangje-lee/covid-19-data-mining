@@ -27,8 +27,7 @@ The dataset, “The Covid-19 Open Research Dataset” contains all the research 
 - Jupiter_Notebook_Final_Initial_Code_Part_02.ipynb ==> Related to classification. (Part 2)
 - Jupiter_Notebook_Final_Initial_Code_Part_03.ipynb ==> Related to modifying the dataset and bagging/ensemble model. (Part 3)
 
-- 
-"Html" file available (Github/Drive) as well as "pdf" file (Google Drive)
+- "Html" file available (Github/Drive) as well as "pdf" file (Google Drive)
 - Dataset_Without_Abstract.txt ==>  Dataset (modified dataset) used for this project
 
 ---

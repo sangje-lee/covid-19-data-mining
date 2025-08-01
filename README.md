@@ -38,18 +38,19 @@ The dataset, “The Covid-19 Open Research Dataset” contains all the research 
 Link of the modified dataset that will be used during this analysis. Unable to put inside Github because of the dataset size<br />
  https://drive.google.com/file/d/1NNlfCUdVFTk1ADTSio2Th2Bh42rvrLZc/view?usp=drive_link <br />
 
-Alternative (Google Drive), https://drive.google.com/drive/u/1/folders/1fNlXaACqC11my3Tswibd8S_Sh1fChSgL <br />
+Alternative (Google Drive), https://drive.google.com/drive/folders/1vxsa1mW9UbiiEtPavJDZQinDGFNIvZo2?usp=drive_link
+Alternative (Google Drive, Previous version), https://drive.google.com/drive/u/1/folders/1fNlXaACqC11my3Tswibd8S_Sh1fChSgL <br />
 -> Contain all the datasets including the original dataset, alternative dataset with abstract columns, and script that modify original dataset into modified dataset to fit for this project.<br />
 
 ---
 
 ## Research Questions
 
-- How frequent do the main keywords appear in the title column? (Part 1)
-- What are the keyword patterns associated with the initial keyword in the search? (Ex. Vaccine → Test, Vaccine → Anti-gen) (Part 1)
-- What is the frequency of the keywords over time during the pandemic period? (2020, 2021, and 2022) (Part 2)
-- What is the other frequent main keywords appear with the keyword 'pandemic'? (Part 3)
-- What other words aside from the keywords and the grammar structures appear in the title column? (Part 4)
+-	What are the main keywords aside from the dataset and the grammar structures appear in the title column?  (Part 1)
+-	How frequent do the main keywords appear in the title column? (Part 2)
+-	What are the keyword patterns associated with the initial keyword? (Ex. Vaccine → Test) (Part 3)
+-	What does the probability of the keyword ‘infect’ appearing inside the title column aside from the other keywords and duration? (Part 4)
+
 
 ---
 

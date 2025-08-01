@@ -38,8 +38,7 @@ The dataset, “The Covid-19 Open Research Dataset” contains all the research 
 Link of the modified dataset that will be used during this analysis. Unable to put inside Github because of the dataset size<br />
  https://drive.google.com/file/d/1NNlfCUdVFTk1ADTSio2Th2Bh42rvrLZc/view?usp=drive_link <br />
 
-Alternative (Google Drive), https://drive.google.com/drive/folders/1vxsa1mW9UbiiEtPavJDZQinDGFNIvZo2?usp=drive_link
-Alternative (Google Drive, Previous version), https://drive.google.com/drive/u/1/folders/1fNlXaACqC11my3Tswibd8S_Sh1fChSgL <br />
+Alternative (Google Drive), https://drive.google.com/drive/folders/1vxsa1mW9UbiiEtPavJDZQinDGFNIvZo2?usp=drive_link <br />
 -> Contain all the datasets including the original dataset, alternative dataset with abstract columns, and script that modify original dataset into modified dataset to fit for this project.<br />
 
 ---

@@ -77,7 +77,7 @@ Alternative (Google Drive), https://drive.google.com/drive/folders/1vxsa1mW9Ubii
 
 ## Alternative Dataset storage
 
-Alternative (Google Drive), https://drive.google.com/drive/u/1/folders/1fNlXaACqC11my3Tswibd8S_Sh1fChSgL <br />
+Alternative (Google Drive - Previous version), https://drive.google.com/drive/u/1/folders/1fNlXaACqC11my3Tswibd8S_Sh1fChSgL <br />
 -> Contain all the datasets including the original dataset, alternative dataset with abstract columns, and script that modify original dataset into modified dataset to fit for this project.
 <br /><br />
 **Python (Jupiter Notebook) Script (Inside Google Drive)**

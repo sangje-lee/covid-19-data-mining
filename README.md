@@ -9,7 +9,7 @@ The code is slightly updated. Previous code are located here, https://github.com
 
 ## Overview
 
-The dataset, “The Covid-19 Open Research Dataset” contains all the research papers that are related to COVID-19 mostly in 2020 to 2022 with some of research paper dated before 2022. The (final) dataset itselfis roughly 18GB, consist of four of the columns, “cord_uid”, unique identifier, “title”, “published_time”, and “abstract”. The problem primarily will involve the ‘title’ column, to find keywords primarily focus on “Vaccine”, “Lockdown”, “Test”, “Worker”, and 'Patient'. For this analysis, the modified dataset which only the resarch papers dated between 2020 to 2022 is being used.
+The dataset, “The Covid-19 Open Research Dataset” contains all the research papers that are related to COVID-19 mostly in 2020 to 2022 with some of research paper dated before 2022. The (final) dataset itselfis roughly 18GB, consist of four of the columns, “cord_uid”, unique identifier, “title”, “published_time”, and “abstract”. The problem primarily will involve the ‘title’ column, to find keywords primarily focus on "Patient", "Disease", “Vaccine”, and "Infect". For this analysis, the modified dataset which only the resarch papers dated between 2020 to 2022 is being used.
 
 - **Goal:** To find any keywords inside the dataset that contains title of the research paper. The search of keyword involved primarily on 'title' columns.
 

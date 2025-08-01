@@ -23,7 +23,7 @@ The dataset, “The Covid-19 Open Research Dataset” contains all the research 
 
 **Python (Jupiter Notebook) Script**
 
-- Jupiter_Notebook_Final_Initial_Code_Part_01.ipynb ==> Related to text mining (Part 1)  and assocation rules. (Part 1)
+- Jupiter_Notebook_Final_Initial_Code_Part_01.ipynb ==> Related to text mining (Part 1)
 - Jupiter_Notebook_Final_Initial_Code_Part_02.ipynb ==> Related to classification. (Part 2)
 - Jupiter_Notebook_Final_Initial_Code_Part_03.ipynb ==> Related to modifying the dataset and bagging/ensemble model. (Part 3)
 
